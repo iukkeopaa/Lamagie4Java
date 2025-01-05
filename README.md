@@ -1,5 +1,4 @@
 # Lamagie4Java
-学习Java过程中的点滴积累，涵盖Java技术的核心方面知识
 
 <p align="center">
     <img src="pic/img_4.png" alt="厚积薄发" height="100" width="120" border="10">
