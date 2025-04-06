@@ -1,0 +1,4 @@
+## Aware接口
+
+
+BeanFactoryAware、BeanClassLoaderAware、BeanNameAware和ApplicationContextAware
