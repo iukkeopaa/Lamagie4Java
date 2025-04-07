@@ -148,7 +148,7 @@
 
 - [AOP](AOP)
 - [IOC](IOC)
-- [Bean的生命流程](Bean的生命流程)
+- [Bean的生命流程](Spring/Bean/Bean的生命周期.md)
 - [事务](事务)
 - [循环依赖](循环依赖)
 - [Spring](Spring)
